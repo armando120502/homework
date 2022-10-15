@@ -1,0 +1,15 @@
+body{
+    background-color: grey;
+}
+table tr#Row1 {
+    background-color: cornflowerblue;
+}
+table tr#Row2 {
+    background-color: green;
+}
+table tr#Row3 {
+    background-color: yellow;
+}
+table tr#Row4 {
+    background-color: red;
+}
